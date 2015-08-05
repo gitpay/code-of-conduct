@@ -83,3 +83,9 @@ We expect leaders to be aware when they are conflicted due to employment or othe
 When in doubt, ask for a second opinion. Perceived conflicts of interest are important to address; as a leader, act to ensure that decisions are credible even if they must occasionally be unpopular, difficult or favourable to the interests of one group over another.
 
 This Code is not exhaustive or complete. It is not a rulebook; it serves to distil our common understanding of a collaborative, shared environment and goals. We expect it to be followed in spirit as much as in the letter.
+
+
+## By starring this repository you agree:
+
+* You have read and agree with the code of conduct
+* Only one star is submitted per person
